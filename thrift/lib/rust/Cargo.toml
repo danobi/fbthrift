@@ -7,7 +7,6 @@ repository = "https://github.com/danobi/fbthrift"
 authors = ['Facebook', 'Daniel Xu <dlxu@fb.com>']
 edition = "2018"
 version = "0.0.1+unstable"
-publish = false
 include = ["src/*.rs", "src/tests/*.rs"]
 
 [dependencies]
