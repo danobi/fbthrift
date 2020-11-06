@@ -8,6 +8,7 @@ authors = ['Facebook', 'Daniel Xu <dlxu@fb.com>']
 edition = "2018"
 version = "0.0.1+unstable"
 include = ["src/*.rs", "src/tests/*.rs"]
+license = "Apache-2.0"
 
 [dependencies]
 anyhow = "1.0"
